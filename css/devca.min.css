@@ -181,8 +181,7 @@ ul.banner-social-buttons{margin-top:0}
 
 ul.banner-social-buttons li:last-child{margin-bottom:0}}
 
-@media (min-width:768px) { footer {
-	height:100%;
+@media (min-width:768px) { footer {	
 	padding:0 }
 
 .btn-circle {
