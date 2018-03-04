@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![DEVbyCA Preview](https://dev.ayuwelirang.com/img/screen-devbyca.jpg)
+![DEVbyCA Preview](https://dev.ayuwelirang.com/img/screen-devbyca.jpg)
 
 **[Click Here for Live View](https://dev.ayuwelirang.com)**
 
@@ -18,7 +18,7 @@ To begin using this template, choose one of the following options to get started
 
 ### Basic Usage
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+After downloading or cloning the repo, simply edit the HTML and CSS files included with the template using your favorite text editor. These are the only files you need to edit and you can ignore the else. To preview the changes you make to the code, you can open the `index.html` file in your web browser or host your html files in localhost (using your favorite web server).
 
 ## About
 
